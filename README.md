@@ -1,2 +1,2 @@
 # MOS
-Application for multiuser 
+Softvare for multiuser 
